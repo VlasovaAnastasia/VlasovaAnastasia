@@ -12,7 +12,7 @@
 ✏️И другие тестовые артефакты, созданные в процессе освоения профессии тестировщика.
 
 
-В [резюме](https://drive.google.com/file/d/1aUgPoklq8X0I79hmCrKSKLj9pc4ZOsNm/view?usp=drive_link) можно подробнее ознакомиться с моим опытом работы и навыками
+В [резюме](https://github.com/VlasovaAnastasia/VlasovaAnastasia/blob/main/CV_%D0%92%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA.pdf) можно подробнее ознакомиться с моим опытом работы и навыками
 
   ---
 
